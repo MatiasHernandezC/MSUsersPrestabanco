@@ -1,0 +1,6 @@
+
+.gitattributes
+/.idea
+/data
+/.mvn
+/target
